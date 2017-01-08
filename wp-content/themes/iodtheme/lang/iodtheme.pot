@@ -1,0 +1,2882 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IODtheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Jun 27 2016 21:53:25 GMT+0530 (India Standard Time)\n"
+"POT-Revision-Date: Mon Jun 27 2016 21:53:52 GMT+0530 (India Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:9
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: ../404.php:13
+#, php-format
+msgid "We could not find the page you are looking for. %1$s."
+msgstr ""
+
+#: ../404.php:13
+msgid "Go back to Home"
+msgstr ""
+
+#: ../archive.php:43
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:21
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:21
+msgid "One Response"
+msgstr ""
+
+#: ../comments.php:21
+msgid "% Responses"
+msgstr ""
+
+#: ../comments.php:21
+msgid "to"
+msgstr ""
+
+#: ../comments.php:24
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:52
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../content.php:30
+msgid "Read More"
+msgstr ""
+
+#: ../footer.php:50
+msgid "Developed by"
+msgstr ""
+
+#: ../footer.php:68
+msgid "All Rights Reserved."
+msgstr ""
+
+#: ../header.php:44
+msgid "Please assign primary menu in wp-admin->Appearance->Menus"
+msgstr ""
+
+#: ../search.php:10
+msgid "Search Results For: "
+msgstr ""
+
+#: ../search.php:19
+msgid "We could not find anything for the search term: "
+msgstr ""
+
+#: ../single-tt_portfolio.php:67
+msgid "PROJECT DESCRIPTION:"
+msgstr ""
+
+#: ../single-tt_portfolio.php:73
+msgid "PROJECT:"
+msgstr ""
+
+#: ../single-tt_portfolio.php:78
+msgid "Role:"
+msgstr ""
+
+#: ../single-tt_portfolio.php:85
+msgid "Completed:"
+msgstr ""
+
+#: ../single-tt_portfolio.php:91
+msgid "Client:"
+msgstr ""
+
+#: ../single-tt_portfolio.php:97
+msgid "technology:"
+msgstr ""
+
+#: ../single-tt_portfolio.php:105
+msgid "LIVE URL"
+msgstr ""
+
+#: ../single.php:48
+msgid "Posted in: "
+msgstr ""
+
+#. Name of the template
+msgid "Blog default"
+msgstr ""
+
+#. Name of the template
+msgid "Page with sidebar"
+msgstr ""
+
+#: ../inc/init.php:149
+msgid "Primary Menu"
+msgstr ""
+
+#: ../inc/init.php:150
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/theme-comments.php:17
+msgid "Direct link to this comment"
+msgstr ""
+
+#: ../inc/theme-comments.php:18
+msgid "Edit"
+msgstr ""
+
+#: ../inc/theme-comments.php:19
+msgid "Reply"
+msgstr ""
+
+#: ../inc/theme-comments.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/theme-essentials.php:69
+msgid "Thanks for Activating IOD WordPress theme."
+msgstr ""
+
+#: ../inc/theme-essentials.php:72
+msgid ""
+"Theme requires few bundled plugins to function on its full power. Please "
+"Install and Activate plugins below."
+msgstr ""
+
+#: ../inc/theme-essentials.php:76
+msgid ""
+"You can choose not to install any particular plugin if you do not need it. "
+"eg Jobmanager "
+msgstr ""
+
+#: ../inc/theme-essentials.php:81
+msgid ""
+"After plugins are activated, Click Dashboard on left top, then go to "
+"Appearance > Theme Setup Wizard for further setup."
+msgstr ""
+
+#: ../inc/theme-essentials.php:98
+msgid "Sidebar ( Default )"
+msgstr ""
+
+#: ../inc/theme-essentials.php:98
+msgid "Default sidebar."
+msgstr ""
+
+#: ../inc/theme-essentials.php:100
+msgid "Sidebar ( Shop )"
+msgstr ""
+
+#: ../inc/theme-essentials.php:100
+msgid "Side for Woocommerce."
+msgstr ""
+
+#: ../inc/theme-essentials.php:102
+msgid "Alt. Sidebar 1"
+msgstr ""
+
+#: ../inc/theme-essentials.php:102 ../inc/theme-essentials.php:104
+msgid "Extra sidebar(Maybe Use with Visual Composer)."
+msgstr ""
+
+#: ../inc/theme-essentials.php:104
+msgid "Alt. Sidebar 2"
+msgstr ""
+
+#: ../inc/theme-essentials.php:110
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: ../inc/theme-essentials.php:110
+#, php-format
+msgid "Widgetized Footer Region %d."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: ../inc/theme-essentials.php:167
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/theme-functions.php:516
+msgid "Search for:"
+msgstr ""
+
+#: ../inc/theme-functions.php:517
+msgid "Search&hellip;"
+msgstr ""
+
+#: ../inc/theme-functions.php:518
+msgid "Go"
+msgstr ""
+
+#: ../inc/theme-functions.php:542 ../inc/tgm-activation/class-tgm-plugin-
+#: activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../inc/theme-functions.php:548 ../inc/integrations/visual-
+#: composer/tt_iod_contact.php:28 ../inc/integrations/visual-
+#: composer/tt_iod_story.php:27 ../inc/integrations/visual-composer/tt_iod_team.
+#: php:36
+msgid "Name"
+msgstr ""
+
+#: ../inc/theme-functions.php:551 ../inc/integrations/visual-
+#: composer/tt_iod_contact.php:43
+msgid "Email"
+msgstr ""
+
+#: ../inc/theme-functions.php:554
+msgid "Website"
+msgstr ""
+
+#: ../inc/theme-functions.php:574
+msgid "Submit Comment"
+msgstr ""
+
+#: ../inc/theme-functions.php:575
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: ../inc/theme-functions.php:577
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ../inc/theme-functions.php:775
+msgid "Previous Post"
+msgstr ""
+
+#: ../inc/theme-functions.php:789
+msgid "Next Post"
+msgstr ""
+
+#: ../inc/theme-functions.php:810 ../inc/theme-functions.php:905
+msgid "Zero comments"
+msgstr ""
+
+#: ../inc/theme-functions.php:810 ../inc/theme-functions.php:905 ../inc/theme-
+#: functions.php:924 ../inc/templates/tt-post-meta.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/theme-functions.php:810 ../inc/theme-functions.php:905
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/theme-functions.php:812
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: ../inc/theme-functions.php:920
+msgid "No comments yet."
+msgstr ""
+
+#: ../inc/theme-functions.php:922
+msgid " Comments"
+msgstr ""
+
+#: ../inc/theme-functions.php:1209
+msgid "THEME OPTIONS"
+msgstr ""
+
+#: ../inc/theme-functions.php:1214
+msgid "Change color"
+msgstr ""
+
+#: ../inc/theme-functions.php:1220
+msgid "Select base Color"
+msgstr ""
+
+#: ../inc/theme-functions.php:1229
+msgid "APPLY COLOR"
+msgstr ""
+
+#: ../inc/theme-functions.php:1230
+msgid "RESET TO DEFAULT"
+msgstr ""
+
+#: ../inc/theme-functions.php:1231
+msgid "Back to landing page"
+msgstr ""
+
+#: ../inc/theme-functions.php:1232
+msgid "Purchase Webapp"
+msgstr ""
+
+#: ../inc/theme-functions.php:1233
+msgid "Note: Some colors are controlled by Slider & Pagebuilder."
+msgstr ""
+
+#: ../inc/theme-functions.php:1500
+msgid "tags "
+msgstr ""
+
+#: ../inc/theme-functions.php:1564 ../inc/theme-functions.php:1593
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/theme-functions.php:1566
+msgid "Subscribe to our profiles on the following social networks."
+msgstr ""
+
+#: ../inc/theme-functions.php:1600 ../inc/theme-functions.php:1600 ../inc/theme-
+#: functions.php:1600 ../inc/theme-functions.php:1612 ../inc/theme-functions.php:
+#: 1612 ../inc/theme-functions.php:1612
+msgid "E-mail"
+msgstr ""
+
+#: ../inc/theme-functions.php:1604 ../inc/theme-functions.php:1613
+msgid "Submit"
+msgstr ""
+
+#: ../inc/theme-functions.php:2090
+msgid "Title "
+msgstr ""
+
+#: ../inc/theme-functions.php:2094
+msgid "Posts per page:"
+msgstr ""
+
+#: ../inc/theme-metabox.php:37
+msgid "Show more images"
+msgstr ""
+
+#: ../inc/theme-metabox.php:68
+msgid "Show slider"
+msgstr ""
+
+#: ../inc/theme-metabox.php:165
+msgid "Enable social links in this page"
+msgstr ""
+
+#: ../inc/theme-metabox.php:215
+msgid "Hide default title display in middle content area."
+msgstr ""
+
+#: ../inc/theme-metabox.php:216
+msgid ""
+"In some case, you might want to hide the default title display. Check this "
+"to hide title. If you are not sure about it  leave it unchecked. N/A for "
+"woocommerce products."
+msgstr ""
+
+#: ../inc/theme-metabox.php:223
+msgid "Enable Hero section on this page"
+msgstr ""
+
+#: ../inc/theme-metabox.php:224
+msgid ""
+"Hero section appears after header and before content area. Note: Hero "
+"section is full liquid width. If you want boxed Hero section, use visual "
+"composer Hero Component to build it please. Note: Visual composer must be "
+"active for Hero section to work."
+msgstr ""
+
+#: ../inc/theme-metabox.php:230
+msgid "Type."
+msgstr ""
+
+#: ../inc/theme-metabox.php:231
+msgid ""
+"There are 2 type of headline, Type 1 is wider and type 2 is short, "
+"horizontally."
+msgstr ""
+
+#: ../inc/theme-metabox.php:233
+msgid "Type 1"
+msgstr ""
+
+#: ../inc/theme-metabox.php:234
+msgid "Type 2"
+msgstr ""
+
+#: ../inc/theme-metabox.php:242
+msgid "Main Title."
+msgstr ""
+
+#: ../inc/theme-metabox.php:248
+msgid "Hero area background"
+msgstr ""
+
+#: ../inc/theme-metabox.php:249
+msgid ""
+"This image appears in background of hero section above. As the text is light,"
+" dark image is suggested. Recommended image size is 1300x400 px. Note: If "
+"left empty, default background color displays."
+msgstr ""
+
+#: ../inc/theme-metabox.php:255
+msgid "Background color."
+msgstr ""
+
+#: ../inc/theme-metabox.php:256 ../inc/integrations/visual-
+#: composer/tt_vc_hero_block.php:60
+msgid ""
+"You can choose to have background color, also, if you make this color "
+"transparent, it will work as overlay color on the image chosen above."
+msgstr ""
+
+#: ../inc/theme-metabox.php:265
+msgid "Text Appearance."
+msgstr ""
+
+#: ../inc/theme-metabox.php:266
+msgid ""
+"Based on the color of background image, you might need to make text color "
+"Light or Dark."
+msgstr ""
+
+#: ../inc/theme-metabox.php:268
+msgid "Light"
+msgstr ""
+
+#: ../inc/theme-metabox.php:269
+msgid "Dark"
+msgstr ""
+
+#: ../inc/theme-metabox.php:277
+msgid "Insert breadcrumbs in Hero section."
+msgstr ""
+
+#: ../inc/theme-metabox.php:278
+msgid ""
+"Insert breadcrumb in this area. Note: Yoast SEO plugin must be active, and "
+"Breadcrumb enabled in SEO/Advanced in wp-admin."
+msgstr ""
+
+#: ../inc/theme-metabox.php:285
+msgid "Enable Top padding"
+msgstr ""
+
+#: ../inc/theme-metabox.php:286
+msgid ""
+"When enabled, the page has some white space on the top. Recommended to "
+"disable if you want page builder to cover from top of this page."
+msgstr ""
+
+#: ../inc/theme-metabox.php:292
+msgid "Enable bottom padding"
+msgstr ""
+
+#: ../inc/theme-metabox.php:293
+msgid ""
+"When enabled, the page has some space on the bottom before footer starts. "
+"Recommended to disable if you want page builder to cover till last of this "
+"page."
+msgstr ""
+
+#: ../inc/theme-options.php:30
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:32
+msgid "General Settings."
+msgstr ""
+
+#: ../inc/theme-options.php:38
+msgid "Quick Start"
+msgstr ""
+
+#: ../inc/theme-options.php:48
+msgid "Upload Logo"
+msgstr ""
+
+#: ../inc/theme-options.php:50
+msgid ""
+"Upload a logo for your theme, or specify an image URL directly. For retina "
+"friendliness you can upload 2x logo and set desired dimension in retina "
+"ready graphics option below."
+msgstr ""
+
+#: ../inc/theme-options.php:51
+msgid "Ideal size of the logo depends on the header layout you are using."
+msgstr ""
+
+#: ../inc/theme-options.php:84
+msgid "Do you want sharp logo display on retina display devices?"
+msgstr ""
+
+#: ../inc/theme-options.php:85
+msgid ""
+"To make logo look sharp on Retina devices, you need to upload double size "
+"logo above and turn it on to be able to enter desired width/height for logo "
+"image. If you are not sure what this means leave it off. Note: To comply "
+"with all retina devices app icon etc, please go to Appearance->customize-"
+">site identity."
+msgstr ""
+
+#: ../inc/theme-options.php:93
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: ../inc/theme-options.php:94
+msgid ""
+"Enter desired Width and height for your retina logo. If you want logo to be "
+"retina ready, please upload double size version of logo above and enter the "
+"dimensions you want it to appear in. Recommended: 290 x 60."
+msgstr ""
+
+#: ../inc/theme-options.php:95
+msgid ""
+" Normally it will be half of actual retina logo image dimensions. Enter "
+"values without px eg: 50, 70 etc. Recommended: Leave blank to disable this. "
+"Note: If your logo is distorted, try putting 0 in Height."
+msgstr ""
+
+#: ../inc/theme-options.php:119 ../inc/theme-options.php:129 ../inc/theme-options.
+#: php:144 ../inc/theme-options.php:155
+msgid "Favicon Icon"
+msgstr ""
+
+#: ../inc/theme-options.php:130
+#, php-format
+msgid ""
+"Since WordPress 4.3, favicon now can be managed from Appearance -> Customize "
+"-> Site Identity. %1$s."
+msgstr ""
+
+#: ../inc/theme-options.php:130
+msgid "Go to Live Customizer (Appearance-Customize) by clicking here"
+msgstr ""
+
+#: ../inc/theme-options.php:154
+msgid "Upload favicon icon."
+msgstr ""
+
+#: ../inc/theme-options.php:162 ../inc/theme-options.php:171
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: ../inc/theme-options.php:164 ../inc/theme-options.php:173
+msgid "Icon for Apple iPhone (57px x 57px)"
+msgstr ""
+
+#: ../inc/theme-options.php:180
+msgid "Apple iPhone Retina"
+msgstr ""
+
+#: ../inc/theme-options.php:182
+msgid ""
+"Icon for Apple iPhone Retina Version (114px x 114px) and other high-"
+"resolution Retina display"
+msgstr ""
+
+#: ../inc/theme-options.php:189
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: ../inc/theme-options.php:191
+msgid "Icon for Apple iPad (72px x 72px)"
+msgstr ""
+
+#: ../inc/theme-options.php:198
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: ../inc/theme-options.php:200
+msgid ""
+"Icon for Apple iPad Retina Version (144px x 144px) and other high-resolution "
+"Retina display."
+msgstr ""
+
+#: ../inc/theme-options.php:209 ../inc/theme-options.php:218
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/theme-options.php:219
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../inc/theme-options.php:233
+msgid "Styling"
+msgstr ""
+
+#: ../inc/theme-options.php:244
+msgid "Live Customizer"
+msgstr ""
+
+#: ../inc/theme-options.php:245
+#, php-format
+msgid ""
+"Please note that theme main colors settings can also be done using Live "
+"customizer, you can see live preview if you use live customizer. %1$s."
+msgstr ""
+
+#: ../inc/theme-options.php:245
+msgid "Go to Live Customer (Appearance-Customize) by clicking here"
+msgstr ""
+
+#: ../inc/theme-options.php:250
+msgid "Main Accent Color"
+msgstr ""
+
+#: ../inc/theme-options.php:251
+msgid ""
+"Main accent color of the theme. Note: Some color are powered by page "
+"builder/images. Contact support if you need help."
+msgstr ""
+
+#: ../inc/theme-options.php:252 ../inc/theme-options.php:274
+msgid "Default: leave blank."
+msgstr ""
+
+#: ../inc/theme-options.php:260
+msgid "Body Background Setting"
+msgstr ""
+
+#: ../inc/theme-options.php:261
+msgid ""
+"You can customize body section here. Choose a color or an image and setup as "
+"per your liking."
+msgstr ""
+
+#: ../inc/theme-options.php:262
+msgid ""
+"Note: Prebuilt pages are built on full width Visual composer grid. So this "
+"change might not be visible on them. It will be visiable on Default page "
+"template, and posts."
+msgstr ""
+
+#: ../inc/theme-options.php:272
+msgid "Topbar Color"
+msgstr ""
+
+#: ../inc/theme-options.php:273
+msgid ""
+"Color for the top bar which appears on top of the header.(If enabled in "
+"Layout)"
+msgstr ""
+
+#: ../inc/theme-options.php:282
+msgid "Header Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:283
+msgid "You can customize header area here."
+msgstr ""
+
+#: ../inc/theme-options.php:290
+msgid "Footer Background"
+msgstr ""
+
+#: ../inc/theme-options.php:291
+msgid "Select background image or color for footer area, where widgets appear."
+msgstr ""
+
+#: ../inc/theme-options.php:292
+#, php-format
+msgid ""
+"Note: As by default an image is set on this area, selecting only color will "
+"not work, if you want to have color only, you might need to set image as "
+"transparent image(and then select color.). %1$s."
+msgstr ""
+
+#: ../inc/theme-options.php:292
+msgid "Here is a transparent image you can download and use."
+msgstr ""
+
+#: ../inc/theme-options.php:298
+msgid "Exreme footer Background"
+msgstr ""
+
+#: ../inc/theme-options.php:299
+msgid ""
+"Select background image or color for extreme bottom image, the section which "
+"is used for copyright info etc."
+msgstr ""
+
+#: ../inc/theme-options.php:309
+msgid "Layout (Header/Sidebar)"
+msgstr ""
+
+#: ../inc/theme-options.php:311
+msgid "Layout Settings for Sidebar and Header."
+msgstr ""
+
+#: ../inc/theme-options.php:322
+msgid "Toppest Bar Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:323
+msgid ""
+"Below settings are for the top most navigation bar which is optional. It "
+"adds some usual user interface items. There is limited space on this bar , "
+"so be careful in choosing what part you really need. You can try it out and "
+"disable things later if bar goes out of space. Note: Top nav background "
+"color can be changed from Styling tab."
+msgstr ""
+
+#: ../inc/theme-options.php:328
+msgid "Enable Top Nav Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:329
+msgid "Enable/Disable the Top most nav bar globally."
+msgstr ""
+
+#: ../inc/theme-options.php:376
+msgid "Teaser Text"
+msgstr ""
+
+#: ../inc/theme-options.php:377
+msgid ""
+"Teaser text is short sentence that you want to highlight. eg : Our helpline "
+"number : xyz. This text appears on left most side of top bar."
+msgstr ""
+
+#: ../inc/theme-options.php:384
+msgid "Select Menu"
+msgstr ""
+
+#: ../inc/theme-options.php:385
+msgid ""
+"To display custom menu, please create a new menu in Appearance -> Menus and "
+"then select it here."
+msgstr ""
+
+#: ../inc/theme-options.php:396
+msgid "Footer Customization"
+msgstr ""
+
+#: ../inc/theme-options.php:407
+msgid "Footer area customization"
+msgstr ""
+
+#: ../inc/theme-options.php:408
+msgid ""
+"Customize footer area here. Note: Background colors for footer areas can be "
+"changed from Styling tab."
+msgstr ""
+
+#: ../inc/theme-options.php:414
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: ../inc/theme-options.php:415
+msgid "Select how many footer widget areas you want to display."
+msgstr ""
+
+#: ../inc/theme-options.php:416
+msgid ""
+"Select default sidebar position for the website, you can override this "
+"setting on per post/page level too."
+msgstr ""
+
+#: ../inc/theme-options.php:440
+msgid "Enable Custom Footer (Left)"
+msgstr ""
+
+#: ../inc/theme-options.php:441 ../inc/theme-options.php:469
+msgid "Activate to add the custom text below to the theme footer."
+msgstr ""
+
+#: ../inc/theme-options.php:442 ../inc/theme-options.php:470
+msgid "If turned off, default text will appear."
+msgstr ""
+
+#: ../inc/theme-options.php:449
+msgid "Custom Text (Left)"
+msgstr ""
+
+#: ../inc/theme-options.php:450
+msgid "Custom HTML and Text that will appear in the upper footer of your theme."
+msgstr ""
+
+#: ../inc/theme-options.php:459
+msgid "Enable Footer menu (Right)"
+msgstr ""
+
+#: ../inc/theme-options.php:460
+msgid ""
+"Once enabled, please create and set menu as footer menu in Appearance -> "
+"Menus."
+msgstr ""
+
+#: ../inc/theme-options.php:461
+msgid "If turned off, text options appear below."
+msgstr ""
+
+#: ../inc/theme-options.php:468
+msgid "Enable Custom Footer (Right)"
+msgstr ""
+
+#: ../inc/theme-options.php:478
+msgid "Custom Text (Right)"
+msgstr ""
+
+#: ../inc/theme-options.php:479
+msgid "Custom HTML and Text that will appear in the lower footer of your theme."
+msgstr ""
+
+#: ../inc/theme-options.php:493
+msgid "Social / Contact Settings"
+msgstr ""
+
+#: ../inc/theme-options.php:501
+msgid "Telephone"
+msgstr ""
+
+#: ../inc/theme-options.php:502
+msgid "Enter your telephone number"
+msgstr ""
+
+#: ../inc/theme-options.php:508
+msgid "Contact Form E-Mail"
+msgstr ""
+
+#: ../inc/theme-options.php:509
+msgid "Enter your E-mail address to use on the 'Contact Form' page Template."
+msgstr ""
+
+#: ../inc/theme-options.php:515
+msgid "Enable RSS"
+msgstr ""
+
+#: ../inc/theme-options.php:516
+msgid "Enable the subscribe and RSS icon."
+msgstr ""
+
+#: ../inc/theme-options.php:522
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/theme-options.php:523
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.twitter.com/templatation"
+msgstr ""
+
+#: ../inc/theme-options.php:523 ../inc/integrations/visual-composer/tt_iod_team.
+#: php:74
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/theme-options.php:529
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/theme-options.php:530
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.facebook.com/templatation"
+msgstr ""
+
+#: ../inc/theme-options.php:530 ../inc/integrations/visual-composer/tt_iod_team.
+#: php:58
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/theme-options.php:536
+msgid "YouTube URL"
+msgstr ""
+
+#: ../inc/theme-options.php:537
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.youtube.com/templatation"
+msgstr ""
+
+#: ../inc/theme-options.php:537
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/theme-options.php:543
+msgid "Flickr URL"
+msgstr ""
+
+#: ../inc/theme-options.php:544
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.flickr.com/templatation"
+msgstr ""
+
+#: ../inc/theme-options.php:544
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/theme-options.php:550
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../inc/theme-options.php:551
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.linkedin.com/in/templatation"
+msgstr ""
+
+#: ../inc/theme-options.php:551
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/theme-options.php:557
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inc/theme-options.php:558
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.pinterest.com/templatation"
+msgstr ""
+
+#: ../inc/theme-options.php:558
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/theme-options.php:564
+msgid "Instagram URL"
+msgstr ""
+
+#: ../inc/theme-options.php:565
+#, php-format
+msgid "Enter your %1$s URL e.g. http://www.instagram.com/templatation"
+msgstr ""
+
+#: ../inc/theme-options.php:565
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/theme-options.php:571
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/theme-options.php:572
+#, php-format
+msgid "Enter your %1$s URL e.g. https://plus.google.com/104560124403688998123/"
+msgstr ""
+
+#: ../inc/theme-options.php:572
+msgid "Google+"
+msgstr ""
+
+#: ../inc/theme-options.php:583 ../inc/theme-options.php:593
+msgid "Included Plugins"
+msgstr ""
+
+#: ../inc/theme-options.php:594
+msgid ""
+"The theme requires/recommends some plugin to function properly. Theme also "
+"includes some premium plugins with your purchase, to manage plugins, please "
+"go to Appearance -> Install plugins. Note: The menu only appears if all "
+"required plugins are not activated. So not to worry if you do not find that "
+"menu link."
+msgstr ""
+
+#: ../inc/theme-options.php:594 ../inc/theme-options.php:620
+msgid "Click Here"
+msgstr ""
+
+#: ../inc/theme-options.php:600
+msgid "Theme Updates"
+msgstr ""
+
+#: ../inc/theme-options.php:611
+msgid "Theme Update"
+msgstr ""
+
+#: ../inc/theme-options.php:612
+#, php-format
+msgid ""
+"The theme is regularly updated with new features and other bug fixes and "
+"improvement. You can activate Envato plugin for hassle free theme updates "
+"whenever update is available without having to download from Themeforest. "
+"Note if you modified any theme files, it will be overwritten with update. "
+"Again, make sure to keep regular backups. You can use awesome free plugin "
+"named %1$s  to create backups periodically(automatically) without hassles."
+msgstr ""
+
+#: ../inc/theme-options.php:612
+msgid "UpdraftPlus"
+msgstr ""
+
+#: ../inc/theme-options.php:619
+msgid "Step by Step instruction to setup easy updates."
+msgstr ""
+
+#: ../inc/theme-options.php:620
+#, php-format
+msgid ""
+"Please %1s for complete instruction to setup the updater plugin and update "
+"easily in future."
+msgstr ""
+
+#: ../inc/theme-options.php:633 ../inc/theme-options.php:643
+msgid "Custom Post Types"
+msgstr ""
+
+#: ../inc/theme-options.php:644
+msgid ""
+"The theme adds some post types to manage content like testimonials, "
+"portfolios etc. You can disable the Post types that you do not need. You can "
+"also change the permalink structure for those custom post types here, for "
+"example, if you would like portfolio item url to be like http://yoursite."
+"com/portfolio-item/item or http://yoursite.com/my-work/item. If you are not "
+"sure what it all means, its ok to skip this section totally."
+msgstr ""
+
+#: ../inc/theme-options.php:651 ../inc/theme-options.php:679 ../inc/theme-options.
+#: php:726
+msgid "Important !"
+msgstr ""
+
+#: ../inc/theme-options.php:652 ../inc/theme-options.php:680 ../inc/theme-options.
+#: php:727
+msgid ""
+"After changing any settings on this section or its subsections, you need to "
+"re-save the Settings → Permalinks page. Otherwise you will get 404 errors."
+msgstr ""
+
+#: ../inc/theme-options.php:657
+msgid "Enable With Front"
+msgstr ""
+
+#: ../inc/theme-options.php:658
+msgid "Recommended: Off"
+msgstr ""
+
+#: ../inc/theme-options.php:659
+msgid ""
+"Prepend the permalink structure with the front base. ( example: if your "
+"permalink structure is /blog/, then your links will be: With-Front disabled -"
+"> /portfolio-item/, With-Front enabled -> /blog/portfolio-item/ )."
+msgstr ""
+
+#: ../inc/theme-options.php:668 ../inc/integrations/visual-
+#: composer/tt_iod_portfolio.php:8
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/theme-options.php:685
+msgid "Enable Portfolio"
+msgstr ""
+
+#: ../inc/theme-options.php:686
+msgid "Enable the Portfolio Custom Post type."
+msgstr ""
+
+#: ../inc/theme-options.php:692
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../inc/theme-options.php:698
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: ../inc/theme-options.php:704 ../inc/theme-options.php:751
+msgid "Enable Single Page"
+msgstr ""
+
+#: ../inc/theme-options.php:705 ../inc/theme-options.php:752
+msgid ""
+"Do you want singular item page for this Custom post type. eg: It makes sense "
+"to have a Portfolio item single page with more details about that item. But "
+"it makes less sense to have single item page for testimonials."
+msgstr ""
+
+#: ../inc/theme-options.php:715 ../inc/integrations/visual-composer/tt_iod_team.
+#: php:13
+msgid "Team"
+msgstr ""
+
+#: ../inc/theme-options.php:732
+msgid "Enable Team"
+msgstr ""
+
+#: ../inc/theme-options.php:733
+msgid "Enable the Team Custom Post type."
+msgstr ""
+
+#: ../inc/theme-options.php:739
+msgid "Team Slug"
+msgstr ""
+
+#: ../inc/theme-options.php:745
+msgid "Team Category Slug"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:13
+msgid "Banner slider"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:15
+msgid "Slider with images and title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:19 ..
+#: /inc/integrations/visual-composer/tt_iod_banner_slider.php:31 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:19 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:31 ..
+#: /inc/integrations/visual-composer/tt_iod_button.php:16 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:15 ..
+#: /inc/integrations/visual-composer/tt_iod_contact.php:17 ..
+#: /inc/integrations/visual-composer/tt_iod_count.php:17 ..
+#: /inc/integrations/visual-composer/tt_iod_documents.php:16 ..
+#: /inc/integrations/visual-composer/tt_iod_features.php:19 ..
+#: /inc/integrations/visual-composer/tt_iod_features.php:31 ..
+#: /inc/integrations/visual-composer/tt_iod_history.php:19 ..
+#: /inc/integrations/visual-composer/tt_iod_history.php:52 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:21 ..
+#: /inc/integrations/visual-composer/tt_iod_list.php:19 ..
+#: /inc/integrations/visual-composer/tt_iod_list.php:31 ..
+#: /inc/integrations/visual-composer/tt_iod_map.php:16 ../inc/integrations/visual-
+#: composer/tt_iod_menu.php:19 ../inc/integrations/visual-composer/tt_iod_menu.
+#: php:57 ../inc/integrations/visual-composer/tt_iod_portfolio.php:11 ..
+#: /inc/integrations/visual-composer/tt_iod_post.php:18 ..
+#: /inc/integrations/visual-composer/tt_iod_price.php:17 ..
+#: /inc/integrations/visual-composer/tt_iod_revenues.php:16 ..
+#: /inc/integrations/visual-composer/tt_iod_slider.php:19 ..
+#: /inc/integrations/visual-composer/tt_iod_slider.php:31 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:16 ..
+#: /inc/integrations/visual-composer/tt_iod_team.php:16 ..
+#: /inc/integrations/visual-composer/tt_iod_team_gallery.php:11 ..
+#: /inc/integrations/visual-composer/tt_iod_testimonial.php:16 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:18 ..
+#: /inc/integrations/visual-composer/tt_vc_hero_block.php:18
+msgid "IODtheme"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:28 ..
+#: /inc/integrations/visual-composer/tt_iod_slider.php:28
+msgid "Slider item"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:30
+msgid "Banner slider item"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:37 ..
+#: /inc/integrations/visual-composer/tt_iod_slider.php:37
+msgid "Slider image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:40 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:40 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:54 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:68 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:82 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:96 ..
+#: /inc/integrations/visual-composer/tt_iod_documents.php:23 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:56 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:457 ..
+#: /inc/integrations/visual-composer/tt_iod_revenues.php:23 ..
+#: /inc/integrations/visual-composer/tt_iod_slider.php:40 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:23 ..
+#: /inc/integrations/visual-composer/tt_iod_team.php:32
+msgid "Select image from media library."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:44 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:32 ..
+#: /inc/integrations/visual-composer/tt_iod_count.php:21 ..
+#: /inc/integrations/visual-composer/tt_iod_features.php:46 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:331 ..
+#: /inc/integrations/visual-composer/tt_iod_map.php:27 ../inc/integrations/visual-
+#: composer/tt_iod_menu.php:23 ../inc/integrations/visual-
+#: composer/tt_iod_revenues.php:27 ../inc/integrations/visual-
+#: composer/tt_iod_story.php:35 ../inc/integrations/visual-composer/tt_iod_title.
+#: php:41
+msgid "Title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:48 ..
+#: /inc/integrations/visual-composer/tt_iod_menu.php:26 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:45
+msgid "Enter title name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:53 ..
+#: /inc/integrations/visual-composer/tt_iod_count.php:30 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:63
+msgid "Title  color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:58 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:75
+msgid "Subtitle"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:61 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:78
+msgid "Ente subtitle text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:67 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:88
+msgid "Subtitle  color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:73 ..
+#: /inc/integrations/visual-composer/tt_iod_button.php:20
+msgid "Text button"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:76 ..
+#: /inc/integrations/visual-composer/tt_iod_button.php:24 ..
+#: /inc/integrations/visual-composer/tt_iod_revenues.php:66 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:59
+msgid "Enter button text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:80 ..
+#: /inc/integrations/visual-composer/tt_iod_button.php:28
+msgid "Button link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_banner_slider.php:83 ..
+#: /inc/integrations/visual-composer/tt_iod_button.php:31
+msgid "Enter button link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:13
+msgid "Brands"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:15
+msgid "Brands images"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:28 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:30
+msgid "Brands item"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:37
+msgid "Brand image 1"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:44
+msgid "Link 1"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:47 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:61 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:75 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:89 ..
+#: /inc/integrations/visual-composer/tt_iod_brands.php:103
+msgid "Please enter link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:51
+msgid "Brand image 2"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:58
+msgid "Link 2"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:65
+msgid "Brand image 3"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:72
+msgid "Link 3"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:79
+msgid "Brand image 4"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:86
+msgid "Link 4"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:93
+msgid "Brand image 5"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_brands.php:100
+msgid "Link 5"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:13
+msgid "Button"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:15
+msgid "Few types of btn."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:36
+msgid "Text button color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:43 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:290 ..
+#: /inc/integrations/visual-composer/tt_iod_list.php:60
+msgid "Icon color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:49
+msgid "Button main background color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:55
+msgid "Button second background color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:61
+msgid "Button alignment"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:63
+msgid "Left"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:64
+msgid "Center"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:65
+msgid "Right"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:71 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:147 ..
+#: /inc/integrations/visual-composer/tt_iod_documents.php:48 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:407 ..
+#: /inc/integrations/visual-composer/tt_iod_map.php:65 ../inc/integrations/visual-
+#: composer/tt_iod_menu.php:41 ../inc/integrations/visual-
+#: composer/tt_iod_revenues.php:70 ../inc/integrations/visual-
+#: composer/tt_iod_story.php:63 ../inc/integrations/visual-composer/tt_iod_team.
+#: php:90 ../inc/integrations/visual-composer/tt_iod_testimonial.php:48
+msgid "Extra class name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_button.php:73 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:149 ..
+#: /inc/integrations/visual-composer/tt_iod_documents.php:50 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:409 ..
+#: /inc/integrations/visual-composer/tt_iod_map.php:67 ../inc/integrations/visual-
+#: composer/tt_iod_menu.php:43 ../inc/integrations/visual-
+#: composer/tt_iod_revenues.php:72 ../inc/integrations/visual-
+#: composer/tt_iod_story.php:65 ../inc/integrations/visual-composer/tt_iod_team.
+#: php:92 ../inc/integrations/visual-composer/tt_iod_testimonial.php:50 ..
+#: /inc/integrations/visual-composer/tt_vc_hero_block.php:139
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:12 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:14
+msgid "Charts"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:19
+msgid "Chart type"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:36
+msgid "Enter chart name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:40
+msgid "X-axis values"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:44
+msgid "Enter values for axis (Note: separate values with \",\")."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:48
+msgid "Text Y-axis"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:51 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:59
+msgid "Enter text for Y-axis"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:56
+msgid "Tooltip suffix"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:64
+msgid "Legend layout"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:74
+msgid "Legend align"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:85
+msgid "Legend vertical align"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:97
+msgid "Series"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:104 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:138
+msgid "Series name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:108 ..
+#: /inc/integrations/visual-composer/tt_iod_charts.php:142
+msgid "Enter series name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:112
+msgid "Series data"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:115
+msgid "Enter series data (Note: separate values with \",\")."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:119
+msgid "Series color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:129
+msgid "Data url"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_charts.php:133
+msgid "Enter url link with data"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_contact.php:14
+msgid "Contact box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_contact.php:16
+msgid "Contact information"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_contact.php:21 ..
+#: /inc/integrations/visual-composer/tt_iod_contact.php:24
+msgid "Contact info"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_contact.php:32
+msgid "Please contact name, for example \"USA"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_contact.php:36
+msgid "Phone"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_contact.php:39
+msgid "Please enter phone number"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_contact.php:46
+msgid "Please enter email"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_count.php:14
+msgid "Count box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_count.php:16
+msgid "Counter box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_count.php:25
+msgid "Enter counter name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_count.php:36
+msgid "Number"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_count.php:39
+msgid "Enter counter number"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_count.php:44
+msgid "Number  color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:13
+msgid "Documents block"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:15
+msgid "Document brochure block"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:20 ..
+#: /inc/integrations/visual-composer/tt_iod_team.php:29
+msgid "Team member image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:27
+msgid "Document name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:31
+msgid "Enter document name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:35
+msgid "Document link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:38
+msgid "Enter document link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:42 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:384 ..
+#: /inc/integrations/visual-composer/tt_iod_price.php:57 ..
+#: /inc/integrations/visual-composer/tt_iod_revenues.php:76 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:69 ..
+#: /inc/integrations/visual-composer/tt_iod_team.php:96 ..
+#: /inc/integrations/visual-composer/tt_iod_testimonial.php:42 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:56
+msgid "Css"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_documents.php:44 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:386 ..
+#: /inc/integrations/visual-composer/tt_iod_price.php:59 ..
+#: /inc/integrations/visual-composer/tt_iod_revenues.php:78 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:71 ..
+#: /inc/integrations/visual-composer/tt_iod_team.php:98 ..
+#: /inc/integrations/visual-composer/tt_iod_testimonial.php:44 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:58
+msgid "Design options"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:13
+msgid "Features"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:15
+msgid "Features box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:28 ..
+#: /inc/integrations/visual-composer/tt_iod_features.php:30
+msgid "Features list"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:37
+msgid "Select style, right or left"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:49
+msgid "Enter features title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:53 ..
+#: /inc/integrations/visual-composer/tt_iod_revenues.php:49 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:42
+msgid "Text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:56
+msgid "Enter features text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_features.php:60 ..
+#: /inc/integrations/visual-composer/tt_iod_list.php:50 ..
+#: /inc/integrations/visual-composer/tt_iod_menu.php:31
+msgid "Type icon"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:13
+msgid "History"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:15
+msgid "History information"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:23
+msgid "Years"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:29
+msgid "Year"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:33
+msgid "Please enter year"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:49
+msgid "History  item"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:51
+msgid "History content"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:58
+msgid "Content info"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_history.php:61
+msgid "Please enter history content"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:11
+msgid "Same window"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:12
+msgid "New window"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:18
+msgid "Info Box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:20
+msgid "Info box with title, icon and desc."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:25
+msgid "Insert Graphic"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:26
+msgid "Do you want to insert image or icon on this infobox."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:36
+msgid "Image source"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:39
+msgid "Media library"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:40 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:65
+msgid "External link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:41
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:44
+msgid "Select image source."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:53
+msgid "Image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:67
+msgid "Select external link."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:76 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:88
+msgid "Image size"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:79
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other "
+"sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height))."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:91
+msgid "Enter image size in pixels. Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:100 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:112
+msgid "Image style"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:103 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:115
+msgid "Select image display style."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:124 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:156
+msgid "Border color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:126 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:145
+msgid "Custom color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:139 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:169
+msgid "Border color."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:147
+msgid "Select custom image border color."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:187
+msgid "Icon library"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:189
+msgid "Font Awesome"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:190
+msgid "Open Iconic"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:191
+msgid "Typicons"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:192
+msgid "Entypo"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:193
+msgid "Linecons"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:196
+msgid "Select icon library."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:205 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:223 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:240 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:257 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:273
+msgid "Icon"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:218 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:235 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:252 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:285
+msgid "Select icon from library."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:301
+msgid "Size"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:305
+msgid "Icon size."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:315
+msgid "Heading type"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:316
+msgid ""
+"This also determines the size of text for both heading/subheading. There is "
+"also SEO benefits of using heading tags. H1 is biggest in fontsize, and in "
+"important. Recommended/default: h4"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:332
+msgid "The above tag will wrap around this title."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:338
+msgid "Title color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:344
+msgid "Title Text Weight"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:345
+msgid "Text weight for title tag"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:354
+msgid "Title Text Transform"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:355
+msgid "Text transform for title tag. Recommended: none"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:366
+msgid "Paragraph"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:367
+msgid "Paragraph for this info box. "
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:372
+msgid "Content Alignment"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:390
+msgid "Show additional information?"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:392 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:71 ..
+#: /inc/integrations/visual-composer/tt_iod_title.php:100
+msgid "Yes, please"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:396 ..
+#: /inc/integrations/visual-composer/tt_iod_menu.php:71 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:49
+msgid "Link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:399
+msgid "Enter service link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:414
+msgid "Additional align"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:420 ..
+#: /inc/integrations/visual-composer/tt_iod_icon_box.php:433
+msgid "Enter additional title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:430
+msgid "Additional title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:442
+msgid "Additional text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:445
+msgid "Enter additional text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:454
+msgid "Additional image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:466
+msgid "Additional button text 1"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:469
+msgid "Enter button text 1"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:478
+msgid "Additional button link 1"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:481
+msgid "Enter button link 1"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:490
+msgid "Additional button text 2"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:493
+msgid "Enter button text 2"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:502
+msgid "Additional button link 2"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_icon_box.php:505
+msgid "Enter button link 2"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_list.php:13
+msgid "List"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_list.php:15
+msgid "List box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_list.php:28 ..
+#: /inc/integrations/visual-composer/tt_iod_list.php:30
+msgid "Item list"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_list.php:37 ..
+#: /inc/integrations/visual-composer/tt_iod_menu.php:63
+msgid "Name item"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_list.php:40
+msgid "Enter list name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_list.php:44
+msgid "Item color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:13
+msgid "Map"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:15
+msgid "Google map"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:20
+msgid "Select image marker"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:23
+msgid "Select image marker from media library."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:30
+msgid "Enter map title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:35
+msgid "Gmaps latitude"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:39
+msgid "Enter map latitude"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:43
+msgid "Gmaps longitude"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:47
+msgid "Enter map longitude"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:51
+msgid "Zoom"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:54
+msgid "Enter map zoom in number 0-18"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:58
+msgid "Height"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_map.php:61
+msgid "Enter map height in number, default 380px"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_menu.php:13
+msgid "Accordion menu"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_menu.php:15
+msgid "Accordion menu box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_menu.php:54 ..
+#: /inc/integrations/visual-composer/tt_iod_menu.php:56
+msgid "Menu item"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_menu.php:66
+msgid "Enter item name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_menu.php:74
+msgid "Enter item link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_portfolio.php:10
+msgid "Portfolio items"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_portfolio.php:15 ..
+#: /inc/integrations/visual-composer/tt_iod_team.php:20 ..
+#: /inc/integrations/visual-composer/tt_iod_team_gallery.php:15
+msgid "Select type of portfolio"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_portfolio.php:31 ..
+#: /inc/integrations/visual-composer/tt_iod_post.php:22 ..
+#: /inc/integrations/visual-composer/tt_iod_team_gallery.php:25
+msgid "Amount"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_portfolio.php:35 ..
+#: /inc/integrations/visual-composer/tt_iod_post.php:26 ..
+#: /inc/integrations/visual-composer/tt_iod_team_gallery.php:29
+msgid "Enter amount items on page"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_post.php:15 ..
+#: /inc/integrations/visual-composer/tt_iod_post.php:17
+msgid "Related post"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:14
+msgid "Pricing plan"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:16
+msgid "Pricing plan box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:21
+msgid "Name plan"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:25
+msgid "Enter pricing plane name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:29
+msgid "Price plan"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:32
+msgid "Enter price"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:36
+msgid "Detail plan"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:39
+msgid "Please create bulleted list"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:43
+msgid "Text btn"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:46
+msgid "Enter text button"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:50
+msgid "Link btn"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_price.php:53
+msgid "Enter link button"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:13
+msgid "Revenues"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:15
+msgid "Report information"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:20
+msgid "Report image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:31
+msgid "Enter report title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:35
+msgid "Date"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:38
+msgid "Enter report date"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:43
+msgid "Date color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:52
+msgid "Enter report text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:56
+msgid "Link for download"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:59
+msgid "Enter link for download"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_revenues.php:63 ..
+#: /inc/integrations/visual-composer/tt_iod_story.php:56
+msgid "Button text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_slider.php:13
+msgid "Presentation slider"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_slider.php:15
+msgid "Slider with images and description"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_slider.php:30
+msgid "Presentation slider item"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_story.php:13
+msgid "Story"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_story.php:15
+msgid "Story information"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_story.php:20
+msgid "Story image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_story.php:31
+msgid "Enter story name"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_story.php:38
+msgid "Enter story title"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_story.php:45
+msgid "Enter story text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_story.php:52
+msgid "Enter link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:15
+msgid "Different types of team member block."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:40
+msgid "Team member name."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:44 ..
+#: /inc/integrations/visual-composer/tt_iod_testimonial.php:28
+msgid "Position"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:47
+msgid "Team member position."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:51
+msgid "Description"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:54
+msgid "Team member detail text."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:61
+msgid "Enter facebook social link url."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:66
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:69
+msgid "Enter linkedin social link url."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:77
+msgid "Enter twitter social link url."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:82
+msgid "Google"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team.php:85
+msgid "Enter google social link url."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team_gallery.php:8
+msgid "Team gallery"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_team_gallery.php:10
+msgid "Gallery items"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_testimonial.php:13
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_testimonial.php:15
+msgid "Testimonial information"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_testimonial.php:20
+msgid "Author"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_testimonial.php:24
+msgid "Enter testimonial author"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_testimonial.php:31
+msgid "Enter testimonial author position"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_testimonial.php:35
+msgid "Testimonial text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_testimonial.php:38
+msgid "Enter testimonial text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:15
+msgid "Title block"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:17
+msgid "Title block with subtitle"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:22
+msgid "Title position"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:32
+msgid "Title transform"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:49
+msgid "Title size"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:52
+msgid "Title size, only number"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:69
+msgid "Show subtitle?"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:98
+msgid "Show suptitle?"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:104
+msgid "Suptitle"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:107
+msgid "Enter suptitle text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_iod_title.php:116
+msgid "Suptitle  color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:15
+msgid "IOD Hero Area"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:17
+msgid "Highlighted section with BG image and text."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:23
+msgid "Show Highlight"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:26
+msgid "Highlight area appears on top with color background."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:30
+msgid "Highlight Text"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:31
+msgid "Enter highlight text."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:40
+msgid "Heading"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:41
+msgid "Heading for Hero area."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:53
+msgid "Hero Area Background Image"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:54
+msgid ""
+"Choose image for background. This image is set to cover mode so please check "
+"image size. recommended size is 1000x400px, or any landscape size."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:59
+msgid "Background color"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:65
+msgid "Image Size"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:66
+msgid ""
+"How the background image (The Hero Area Image above ) should fit the "
+"container ? Leave as-it-is if not sure. Note: If you enable parallax above, "
+"size is always 'cover'."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:76
+msgid "Image Repeat"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:88
+msgid "Image Position"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:89
+msgid ""
+"Select how you would like to position the image (The Hero Area Image above )."
+" Leave as-it-is if not sure."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:105
+msgid "Text Appearance"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:106
+msgid ""
+"Based on the color of background image, you might need to make text color "
+"Light or Dark. Note: Button appearance is being managed from Button tab."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:117
+msgid "Insert Breadcrumb"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:120
+msgid ""
+"Skip if you are not currently building top hero block for the page. Insert "
+"breadcrumb in this area. Note: Yoast SEO plugin must be active, and "
+"Breadcrumb enabled in SEO/Advanced in wp-admin."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:124
+msgid "Top Space"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:125
+msgid ""
+"In-case you want to display big BG image. With block of content aligned in "
+"top, you can enter blank space you want on bottom of content. Enter only "
+"integer, without px, like 200,400. Note: This will not work if you did not "
+"set BG image & inserted padding in Design Options tab."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:131
+msgid "Bottom Space"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:132
+msgid ""
+"In-case you want to display big BG image. With block of content aligned "
+"bottom, you can enter blank space you want on top of content. Enter only "
+"integer, without px, like 200,400. Note: This will not work if you did not "
+"set BG image & inserted padding in Design Options tab."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:138
+msgid "Extra Class"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:145
+msgid "Link Entire Block ?"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:148
+msgid ""
+"Do you want to link entire block. Note: You can also use button and link it "
+"in Button tab instead."
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:153
+msgid "Entire Block Link"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:164
+msgid "CSS box"
+msgstr ""
+
+#: ../inc/integrations/visual-composer/tt_vc_hero_block.php:167
+msgid "Design Options"
+msgstr ""
+
+#: ../inc/templates/tt-post-meta.php:15
+msgid "No Comments"
+msgstr ""
+
+#: ../inc/templates/tt-post-meta.php:17
+msgid "Comments"
+msgstr ""
+
+#: ../inc/templates/tt-post-meta.php:23
+msgid "Comments off."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:393 ../inc/tgm-
+#: activation/class-tgm-plugin-activation.php:912 ../inc/tgm-activation/class-tgm-
+#: plugin-activation.php:2618 ../inc/tgm-activation/class-tgm-plugin-activation.
+#: php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:394 ../inc/tgm-
+#: activation/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:395 ../inc/tgm-
+#: activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:1019 ../inc/tgm-
+#: activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:1206 ../inc/tgm-
+#: activation/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3594 ../inc/tgm-
+#: activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3594 ../inc/tgm-
+#: activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../inc/tgm-activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../vc_templates/tt_iod_price_shortcode.php:23
+msgid "$"
+msgstr ""
+
+#: ../vc_templates/tt_iod_price_shortcode.php:23
+msgid "/monthy"
+msgstr ""
+
+#: ../vc_templates/tt_iod_team_gallery_shortcode.php:20 ..
+#: /vc_templates/tt_iod_team_gallery_shortcode.php:106 ..
+#: /vc_templates/tt_iod_team_gallery_shortcode.php:189
+msgid "All"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/single-product/sale-flash.php:18
+msgid "Sale!"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://templatation.com"
+msgstr ""
+
+#. Description of the theme
+msgid "A powerful theme for Corporates, Industries and Service Providers."
+msgstr ""
+
+#. Author of the theme
+msgid "Templatation"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/templatation"
+msgstr ""
